@@ -9120,7 +9120,7 @@ ul.sidenav.sidenav-fixed:hover {
 }
 
 nav.top-nav {
-  height: 160px;
+  height: auto;
   -webkit-box-shadow: none;
   box-shadow: none;
   border-bottom: 1px solid rgba(0, 0, 0, 0.14);
