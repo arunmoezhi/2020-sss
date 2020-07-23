@@ -5125,7 +5125,7 @@ small {
 .btn-small {
   text-decoration: none;
   color: #fff;
-  background-color: #26a69a;
+  background-color: #e87500;
   text-align: center;
   letter-spacing: .5px;
   -webkit-transition: background-color .2s ease-out;
@@ -5136,7 +5136,7 @@ small {
 .btn:hover,
 .btn-large:hover,
 .btn-small:hover {
-  background-color: #2bbbad
+  background-color: #e8a500
 }
 
 .btn-floating {
@@ -6112,9 +6112,9 @@ input[type=tel]:not(.browser-default):focus:not([readonly]),
 input[type=number]:not(.browser-default):focus:not([readonly]),
 input[type=search]:not(.browser-default):focus:not([readonly]),
 textarea.materialize-textarea:focus:not([readonly]) {
-  border-bottom: 1px solid #26a69a;
-  -webkit-box-shadow: 0 1px 0 0 #26a69a;
-  box-shadow: 0 1px 0 0 #26a69a
+  border-bottom: 1px solid #e87500;
+  -webkit-box-shadow: 0 1px 0 0 #e87500;
+  box-shadow: 0 1px 0 0 #e87500
 }
 
 input:not([type]):focus:not([readonly])+label,
@@ -6130,7 +6130,7 @@ input[type=tel]:not(.browser-default):focus:not([readonly])+label,
 input[type=number]:not(.browser-default):focus:not([readonly])+label,
 input[type=search]:not(.browser-default):focus:not([readonly])+label,
 textarea.materialize-textarea:focus:not([readonly])+label {
-  color: #26a69a
+  color: #e87500
 }
 
 input:not([type]):focus.valid~label,
@@ -6664,12 +6664,12 @@ textarea.materialize-textarea {
 [type="radio"]:checked+span:after,
 [type="radio"].with-gap:checked+span:before,
 [type="radio"].with-gap:checked+span:after {
-  border: 2px solid #26a69a
+  border: 2px solid #e87500
 }
 
 [type="radio"]:checked+span:after,
 [type="radio"].with-gap:checked+span:after {
-  background-color: #26a69a
+  background-color: #e87500
 }
 
 [type="radio"]:checked+span:after {
