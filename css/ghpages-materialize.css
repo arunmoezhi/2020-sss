@@ -10324,16 +10324,16 @@ time.icon strong
   top: 0;
   padding: 0.4em 0;
   color: #fff;
-  background-color: #fd9f1b;
+  background-color: #e87500;
 
-  box-shadow: 0 2px 0 #fd9f1b;
+  box-shadow: 0 2px 0 #e87500;
 }
 
 time.icon em
 {
   position: absolute;
   bottom: 0.1em;
-  color: #fd9f1b;
+  color: #e87500;
 }
 
 time.icon span
@@ -10422,9 +10422,9 @@ display: block;
 width: 100%;
 }
 }
-.stage-earth {background-color: #FFA726}
-.stage-keynote {background-color: #9CCC65}
-.stage-session {background-color: #FF8A65}
-.stage-break {background-color: #ffffff}
-.stage-tutorial {background-color: #B3E5FC}
+.stage-earth {background-color: #ffe6cc}
+.stage-keynote {background-color: #ffcc99}
+.stage-session {background-color: #fff2e6}
+.stage-break {background-color: #ffe6cc}
+.stage-tutorial {background-color: #ffbf80}
 .stage-jupiter {background-color: #81D4FA}
